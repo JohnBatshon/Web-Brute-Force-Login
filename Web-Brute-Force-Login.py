@@ -4,6 +4,13 @@
 #
 # ##########################################################################################
 #
+# Usage Guidelines:
+#
+# Responsible Use: Please use this script in a responsible and ethical manner. Unauthorized access to computer systems, networks, or devices is illegal and unethical.
+# Authorized Access: Before using this script on any system that you do not own or administer, ensure you have obtained written authorization from the system owner or authorized personnel. Unauthorized access is a violation of privacy and may result in legal consequences.
+# Educational Purposes: This script is intended for educational purposes to understand security vulnerabilities and should not be used maliciously.
+# Legal Compliance: Comply with all applicable laws and regulations regarding computer security and data privacy in your jurisdiction.
+# By using this script, you acknowledge and agree to abide by these guidelines and accept full responsibility for any consequences resulting from its use.
 #
 # ##########################################################################################
 
